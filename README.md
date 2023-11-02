@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ker31swjterdwml8?svg=true)](https://ci.appveyor.com/project/Julia-Nemkina/aqa-hw3-selenium)
